@@ -6,4 +6,4 @@ This invloves screen blitting, changing FPS etc to blit the images at certain ev
 
 We can also modify specifically the collide method(function) to change the collision of the player with pipes, ground, upper wall etc. ==> Pretty cool Huh!
 
-Made with �❤️� by Chetan Thakur!
+Made with ❤️ by Chetan Thakur!
